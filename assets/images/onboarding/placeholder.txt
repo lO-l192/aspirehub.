@@ -1,0 +1,8 @@
+This is a placeholder file. 
+
+You should replace this with actual image files for the onboarding screens:
+1. onboarding1.png - For the "Discover Your Career Path" screen
+2. onboarding2.png - For the "Learn and Grow" screen
+3. onboarding3.png - For the "Connect with Opportunities" screen
+
+These should be PNG images with transparent backgrounds for best results.
